@@ -1,0 +1,1 @@
+var services=angular.module("forensic-sys.services",["ngResource"]);

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<compute name="ibm1-00">
+		<bridge name="br-eth1">
+			<bridge name="br-int">
+				<bridge name="qbrea333e80-2e">
+					<vm>
+						<fa:16:3e:ad:40:91/>
+					</vm>
+				</bridge>
+				<bridge name="qbrf3bc53ba-58">
+					<vm>
+						<fa:16:3e:84:ac:06/>
+					</vm>
+				</bridge>
+			</bridge>
+		</bridge>
+	</compute>
